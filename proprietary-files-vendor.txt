@@ -1009,7 +1009,7 @@ vendor/lib/audio_spk_35l41.so
 vendor/lib/audio_tunnel_aoc.so
 vendor/lib/audio_usb_aoc.so
 vendor/lib/audio_waves_aoc.so
-vendor/lib/egl/libGLES_mali.so
+-vendor/lib/egl/libGLES_mali.so
 vendor/lib/gxp_metrics_logger.so
 vendor/lib/hw/android.hardware.bluetooth@1.1-impl-qti.so
 vendor/lib/hw/audio.platform.aoc.so
@@ -1104,7 +1104,7 @@ vendor/lib64/com.google.edgetpu_vendor_service-V2-ndk.so
 vendor/lib64/com.google.face.debug-V2-ndk.so
 vendor/lib64/com.google.hardware.biometrics.fingerprint.fingerprint-ext-V1-ndk.so
 vendor/lib64/com.google.input-V1-ndk.so
-vendor/lib64/egl/libGLES_mali.so
+-vendor/lib64/egl/libGLES_mali.so
 vendor/lib64/fp_utils.so
 vendor/lib64/google_wifi_firmware_config_info_cc_proto.so
 vendor/lib64/gxp_metrics_logger.so
